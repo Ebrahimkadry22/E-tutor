@@ -5,5 +5,5 @@
 
 * Features:
   ------------------
-** Responsive Design: Fully responsive layout, ensuring usability across all devices.
-** Modern Technologies: Built with modern frontend tools and deployed on Netlify.
+* Responsive Design: Fully responsive layout, ensuring usability across all devices.
+* Modern Technologies: Built with modern frontend tools and deployed on Netlify.
